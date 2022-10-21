@@ -1,0 +1,49 @@
+.Error {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  background-color: #1c1d21;
+}
+.error-wrapper {
+  text-align: center;
+}
+.Error .error-wrapper {
+  padding: 100px 0;
+}
+.Error .error-wrapper h1 {
+  color: #fbaf32;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-size: 50px;
+}
+.Error .error-wrapper h2 {
+  color: white;
+  letter-spacing: 2px;
+  font-size: bold;
+  text-transform: capitalize;
+  font-size: 40px;
+}
+.Error .error-wrapper p {
+  padding: 10px 0;
+  color: white;
+  text-transform: capitalize;
+  font-size: 20px;
+}
+
+.Error .error-wrapper a {
+  background-color: #fbaf32;
+  border: none;
+  padding: 10px 20px;
+  color: black;
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+ 
+  border-radius: 4px;
+  font-size: 20px;
+  text-decoration: none;
+  display: block;
+  width: 400px;
+  margin: 20px auto;
+}

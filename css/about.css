@@ -1,0 +1,9 @@
+.about-page-wrapper .about-img-content{
+    float: left
+}
+.about-page-wrapper .about-img-content img{
+    width:530px
+}
+.about-page-wrapper .about-text-content{
+    float: right
+}

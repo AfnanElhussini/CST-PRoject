@@ -1,0 +1,26 @@
+body{
+    background-color: #17181b;
+}
+.navbar{
+    background-color: #1c1d21;
+  
+}
+.auth-wrapper{
+    width: 40%;
+    margin: 50px auto;
+    padding: 20px 0;
+    text-align: center;
+    color: #fff;
+    border: 1px solid #fbaf32;
+}
+.auth-wrapper h1,
+.auth-wrapper p{
+    padding-bottom: 15px;
+}
+.auth-wrapper form{
+    padding: 0px 10px;
+    margin-bottom: 20px;
+}
+.auth-wrapper span a{
+    color: #fbaf32;
+}

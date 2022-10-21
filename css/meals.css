@@ -1,0 +1,60 @@
+.meals{
+    background-color: #1c1d21;
+    margin: 0px;
+    width: 100%; 
+}
+.meals-wrapper{
+    width: 80%;
+    margin: 0 auto;
+
+    height:auto;
+}
+.meals-title{
+    color: #fff;
+    font-size: 30px;
+    padding: 40px 0 ;
+    text-align: center;
+}
+.meals-title h2 span{
+    color: #f9b233;
+}
+.meals-grid{
+    width: 100%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.meals-item{
+    float: left;
+    width: 31%; 
+    border: 2px solid #3c3c3c;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+}
+.meals-item img{
+    width: 100%;
+    border-radius: 10px;
+}
+.meals-contact-us{
+    background-color: #f8af41;
+    width: 100%;
+    color: #fff;
+    text-align: center;
+    padding: 40px 0;
+}
+.meals-contact-us a{
+    background-color: #fff;
+    color: #f8af41;
+    border: none;
+    padding: 10px 20px;
+    font-size: 13px;
+    font-weight: 500;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    border-radius: 4px;
+    font-size: 20px;
+    text-decoration: none;
+    display: block;
+    width: 400px;
+    margin: 20px auto;
+}
