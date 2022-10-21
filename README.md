@@ -1,2 +1,2 @@
 # CST-Project
-Clien Side Technology Project using HTML4 &  CSS2
+Client Side Technology Project using HTML4 &  CSS2
